@@ -4,3 +4,5 @@ Made this dashboard from a random sales data using pivot, lookups, index/match, 
 
 ![Dashboard Screenshot 1](Dashboard%20Screenshot%20of%20karthik_portfolio.png)
 
+![Dashboard Screenshot 2](Dashboard%20screenshot%20of%20Karthik_Dashboard.png)
+
